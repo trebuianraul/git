@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstOne
+namespace SecondOne
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("try 1");
-            Console.WriteLine("try 2");
         }
     }
 }
