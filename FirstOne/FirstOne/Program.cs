@@ -10,6 +10,7 @@ namespace FirstOne
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("try 1");
         }
     }
 }
